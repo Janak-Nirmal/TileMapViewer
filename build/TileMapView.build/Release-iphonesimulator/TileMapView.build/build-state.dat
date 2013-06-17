@@ -1,0 +1,469 @@
+TTileMapView
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/Info.plist" TileMapView/TileMapView-Info.plist
+cProcessPCH /var/folders/xz/8lbtwnt48xn0b2001s63z0zr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TileMapView-Prefix-cbiaeyetynydytgpkuhsbjzcmogv/TileMapView-Prefix.pch.pth TileMapView/TileMapView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/xz/8lbtwnt48xn0b2001s63z0zr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TileMapView-Prefix-hfdyedkrjxqkircnubqjcscgetpj/TileMapView-Prefix.pch.pth TileMapView/TileMapView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/CustomOverlayView.o "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/CustomOverlayView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/main.o "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/TileMapAppDelegate.o "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/TileMapAppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/TileMapViewController.o "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/TileMapViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/AppleTileOverlay.o "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/AppleTileOverlay.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/TileOverlayView.o "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/TileOverlayView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/OSMTileOverlay.o "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/OSMTileOverlay.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/TileMapView" normal i386
+cGenerateDSYMFile "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app.dSYM" "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/TileMapView"
+cCpResource TileMapView/Default@2x.png build/Release-iphonesimulator/TileMapView.app/Default@2x.png
+cCpResource TileMapView/Default.png build/Release-iphonesimulator/TileMapView.app/Default.png
+cCopyStringsFile "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/en.lproj/InfoPlist.strings" TileMapView/en.lproj/InfoPlist.strings
+cCpResource TileMapView/Default-568h@2x.png build/Release-iphonesimulator/TileMapView.app/Default-568h@2x.png
+cCompileXIB "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/en.lproj/TileMapViewController.xib"
+cCpResource TileMapView/CamdenHillsTiles build/Release-iphonesimulator/TileMapView.app/CamdenHillsTiles
+cTouch "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c00000000518468FD0000000000000110
+t1367632125
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000051437DDD0000000000228FE0
+t1363377629
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c0000000051437D5C000000000009C590
+t1363377500
+s640400
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000051437D5E00000000003DDFA0
+t1363377502
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000051437D5F00000000000015F7
+t1363377503
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c0000000051437D6200000000000F9CF0
+t1363377506
+s1023216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000051437D660000000000000E8D
+t1363377510
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000051437D680000000000AB6230
+t1363377512
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c0000000051437D7F0000000000001B73
+t1363377535
+s7027
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/AppleTileOverlay.m
+c0000000051BF1DB30000000000000DE1
+t1371479475
+s3553
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/CamdenHillsTiles
+c000000005197A7430000000000001E48
+t1368893251
+s7752
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/CustomOverlayView.m
+c0000000051BF20640000000000001874
+t1371480164
+s6260
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/Default-568h@2x.png
+c0000000050748B2300000000000048A2
+t1349815075
+s18594
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/Default.png
+c0000000050748B23000000000000198C
+t1349815075
+s6540
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/Default@2x.png
+c0000000050748B230000000000003EEB
+t1349815075
+s16107
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/OSMTileOverlay.m
+c0000000051BF206D00000000000004AA
+t1371480173
+s1194
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/TileMapAppDelegate.m
+c0000000051BF1C820000000000000931
+t1371479170
+s2353
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/TileMapView-Prefix.pch
+c0000000051BF17A20000000000000145
+t1371477922
+s325
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/TileMapViewController.m
+c0000000051BF3275000000000000085F
+t1371484789
+s2143
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/TileOverlayView.m
+c0000000051BF1DB30000000000000A67
+t1371479475
+s2663
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/en.lproj/InfoPlist.strings
+c0000000051BF17A2000000000000002D
+t1371477922
+s45
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/en.lproj/TileMapViewController.xib
+c0000000051BF23120000000000005A8B
+t1371480850
+s23179
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/main.m
+c0000000051BF17E00000000000000162
+t1371477984
+s354
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app
+t2
+s0
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app.dSYM
+t2
+s0
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/CamdenHillsTiles
+t2
+s0
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/Default.png
+t2
+s0
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/Default@2x.png
+t2
+s0
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/Info.plist
+t2
+s0
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/PkgInfo
+t2
+s0
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/TileMapView
+t2
+s0
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/en.lproj/TileMapViewController.nib
+t2
+s0
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/AppleTileOverlay.o
+t2
+s0
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/CustomOverlayView.o
+t2
+s0
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/OSMTileOverlay.o
+t2
+s0
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/TileMapAppDelegate.o
+t2
+s0
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/TileMapView.LinkFileList
+c0000000051BF33040000000000000563
+t1371484932
+s1379
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/TileMapViewController.o
+t2
+s0
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/TileOverlayView.o
+t2
+s0
+
+N/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/var/folders/xz/8lbtwnt48xn0b2001s63z0zr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TileMapView-Prefix-cbiaeyetynydytgpkuhsbjzcmogv/TileMapView-Prefix.pch.pth
+t2
+s0
+
+N/var/folders/xz/8lbtwnt48xn0b2001s63z0zr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TileMapView-Prefix-hfdyedkrjxqkircnubqjcscgetpj/TileMapView-Prefix.pch.pth
+t2
+s0
+
+NTileMapView/TileMapView-Info.plist
+c0000000051BF17A20000000000000491
+t1371477922
+s1169
+
+CBuild AST from "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/AppleTileOverlay.m"
+r0
+
+CBuild AST from "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/CustomOverlayView.m"
+r0
+
+CBuild AST from "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/OSMTileOverlay.m"
+r0
+
+CBuild AST from "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/TileMapAppDelegate.m"
+r0
+
+CBuild AST from "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/TileMapViewController.m"
+r0
+
+CBuild AST from "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/TileOverlayView.m"
+r0
+
+CBuild AST from "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb28174846a6fb741^fd1285846a6fb741^---0#1#0#--18"Check dependencies36"6CABE62A-3386-4B15-A87B-DAA18EDC1380-
+
+CCompileC build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/AppleTileOverlay.o "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/AppleTileOverlay.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393177732.905725
+e393177733.018597
+r1
+xCompileC
+xbuild/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/AppleTileOverlay.o
+x/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/AppleTileOverlay.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Compile /Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/AppleTileOverlay.m390ee8846a6fb741^98c104856a6fb741^---0#0#0#-19%DVTDocumentLocation2@149"file://localhost/Users/ryan/Documents/Programming/Guthook's%20Trail%20Guide%20Apps/Generation%202.0%20Apps/TileMapView/TileMapView/AppleTileOverlay.m0000000000000000^4361"CompileC build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/AppleTileOverlay.o TileMapView/AppleTileOverlay.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-generated-files.hmap" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-own-target-headers.hmap" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-all-target-headers.hmap" -iquote "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-project-headers.hmap" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/DerivedSources/i386" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/DerivedSources" "-F/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/xz/8lbtwnt48xn0b2001s63z0zr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TileMapView-Prefix-cbiaeyetynydytgpkuhsbjzcmogv/TileMapView-Prefix.pch -MMD -MT dependencies -MF "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/AppleTileOverlay.d" --serialize-diagnostics "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/AppleTileOverlay.dia" -c "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/AppleTileOverlay.m" -o "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/AppleTileOverlay.o"36"483B770B-9474-428B-BC24-BE83934B70B1-
+
+CCompileC build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/CustomOverlayView.o "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/CustomOverlayView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393177732.821153
+e393177732.969011
+r1
+xCompileC
+xbuild/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/CustomOverlayView.o
+x/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/CustomOverlayView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Compile /Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/CustomOverlayView.ma857d2846a6fb741^861ff8846a6fb741^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/ryan/Documents/Programming/Guthook's%20Trail%20Guide%20Apps/Generation%202.0%20Apps/TileMapView/TileMapView/CustomOverlayView.m0000000000000000^4381"CompileC build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/CustomOverlayView.o TileMapView/CustomOverlayView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-generated-files.hmap" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-own-target-headers.hmap" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-all-target-headers.hmap" -iquote "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-project-headers.hmap" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/DerivedSources/i386" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/DerivedSources" "-F/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator" -DNS_BLOCK_ASSERTIONS=1 -fno-objc-arc -include /var/folders/xz/8lbtwnt48xn0b2001s63z0zr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TileMapView-Prefix-hfdyedkrjxqkircnubqjcscgetpj/TileMapView-Prefix.pch -MMD -MT dependencies -MF "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/CustomOverlayView.d" --serialize-diagnostics "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/CustomOverlayView.dia" -c "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/CustomOverlayView.m" -o "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/CustomOverlayView.o"36"BFCA9CA5-6197-4DE6-8601-AA71A08D00EE-
+
+CCompileC build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/OSMTileOverlay.o "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/OSMTileOverlay.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393177732.970650
+e393177733.027163
+r1
+xCompileC
+xbuild/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/OSMTileOverlay.o
+x/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/OSMTileOverlay.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Compile /Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/OSMTileOverlay.m7eacf8846a6fb741^6af806856a6fb741^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/ryan/Documents/Programming/Guthook's%20Trail%20Guide%20Apps/Generation%202.0%20Apps/TileMapView/TileMapView/OSMTileOverlay.m0000000000000000^4349"CompileC build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/OSMTileOverlay.o TileMapView/OSMTileOverlay.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-generated-files.hmap" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-own-target-headers.hmap" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-all-target-headers.hmap" -iquote "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-project-headers.hmap" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/DerivedSources/i386" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/DerivedSources" "-F/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/xz/8lbtwnt48xn0b2001s63z0zr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TileMapView-Prefix-cbiaeyetynydytgpkuhsbjzcmogv/TileMapView-Prefix.pch -MMD -MT dependencies -MF "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/OSMTileOverlay.d" --serialize-diagnostics "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/OSMTileOverlay.dia" -c "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/OSMTileOverlay.m" -o "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/OSMTileOverlay.o"36"AF09E823-DA27-421C-8463-0CA544994BF6-
+
+CCompileC build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/TileMapAppDelegate.o "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/TileMapAppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393177732.833730
+e393177732.962368
+r1
+xCompileC
+xbuild/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/TileMapAppDelegate.o
+x/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/TileMapAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Compile /Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/TileMapAppDelegate.m3599d5846a6fb741^b070f6846a6fb741^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/Users/ryan/Documents/Programming/Guthook's%20Trail%20Guide%20Apps/Generation%202.0%20Apps/TileMapView/TileMapView/TileMapAppDelegate.m0000000000000000^4373"CompileC build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/TileMapAppDelegate.o TileMapView/TileMapAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-generated-files.hmap" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-own-target-headers.hmap" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-all-target-headers.hmap" -iquote "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-project-headers.hmap" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/DerivedSources/i386" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/DerivedSources" "-F/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/xz/8lbtwnt48xn0b2001s63z0zr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TileMapView-Prefix-cbiaeyetynydytgpkuhsbjzcmogv/TileMapView-Prefix.pch -MMD -MT dependencies -MF "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/TileMapAppDelegate.d" --serialize-diagnostics "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/TileMapAppDelegate.dia" -c "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/TileMapAppDelegate.m" -o "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/TileMapAppDelegate.o"36"E77E7DAD-5BF8-42DE-9CBE-E01FFB7986E6-
+
+CCompileC build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/TileMapViewController.o "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/TileMapViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393177732.833767
+e393177732.975271
+r1
+xCompileC
+xbuild/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/TileMapViewController.o
+x/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/TileMapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Compile /Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/TileMapViewController.m319ad5846a6fb741^50aaf9846a6fb741^---0#0#0#-19%DVTDocumentLocation2@154"file://localhost/Users/ryan/Documents/Programming/Guthook's%20Trail%20Guide%20Apps/Generation%202.0%20Apps/TileMapView/TileMapView/TileMapViewController.m0000000000000000^4391"CompileC build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/TileMapViewController.o TileMapView/TileMapViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-generated-files.hmap" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-own-target-headers.hmap" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-all-target-headers.hmap" -iquote "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-project-headers.hmap" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/DerivedSources/i386" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/DerivedSources" "-F/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/xz/8lbtwnt48xn0b2001s63z0zr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TileMapView-Prefix-cbiaeyetynydytgpkuhsbjzcmogv/TileMapView-Prefix.pch -MMD -MT dependencies -MF "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/TileMapViewController.d" --serialize-diagnostics "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/TileMapViewController.dia" -c "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/TileMapViewController.m" -o "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/TileMapViewController.o"36"F8C93B76-4C58-48BC-A928-290FDF7CCA2B-
+
+CCompileC build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/TileOverlayView.o "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/TileOverlayView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393177732.963711
+e393177733.057533
+r1
+xCompileC
+xbuild/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/TileOverlayView.o
+x/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/TileOverlayView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Compile /Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/TileOverlayView.mabe9f6846a6fb741^2cb90e856a6fb741^---0#0#0#-19%DVTDocumentLocation2@148"file://localhost/Users/ryan/Documents/Programming/Guthook's%20Trail%20Guide%20Apps/Generation%202.0%20Apps/TileMapView/TileMapView/TileOverlayView.m0000000000000000^4355"CompileC build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/TileOverlayView.o TileMapView/TileOverlayView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-generated-files.hmap" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-own-target-headers.hmap" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-all-target-headers.hmap" -iquote "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-project-headers.hmap" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/DerivedSources/i386" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/DerivedSources" "-F/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/xz/8lbtwnt48xn0b2001s63z0zr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TileMapView-Prefix-cbiaeyetynydytgpkuhsbjzcmogv/TileMapView-Prefix.pch -MMD -MT dependencies -MF "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/TileOverlayView.d" --serialize-diagnostics "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/TileOverlayView.dia" -c "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/TileOverlayView.m" -o "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/TileOverlayView.o"36"34E669D6-0DD8-42C3-BFB7-EF9BE9198622-
+
+CCompileC build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/main.o "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393177732.833511
+e393177732.904397
+r1
+xCompileC
+xbuild/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/main.o
+x/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/main.m228ed5846a6fb741^5b9ae7846a6fb741^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/ryan/Documents/Programming/Guthook's%20Trail%20Guide%20Apps/Generation%202.0%20Apps/TileMapView/TileMapView/main.m0000000000000000^4289"CompileC build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/main.o TileMapView/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-generated-files.hmap" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-own-target-headers.hmap" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-all-target-headers.hmap" -iquote "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-project-headers.hmap" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/DerivedSources/i386" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/DerivedSources" "-F/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/xz/8lbtwnt48xn0b2001s63z0zr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TileMapView-Prefix-cbiaeyetynydytgpkuhsbjzcmogv/TileMapView-Prefix.pch -MMD -MT dependencies -MF "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/main.d" --serialize-diagnostics "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/main.dia" -c "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/main.m" -o "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/main.o"36"5CC927B3-F91C-4630-A6F8-37CCDE7424DE-
+
+CCompileXIB "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/en.lproj/TileMapViewController.xib"
+s393177733.149524
+e393177733.781275
+r1
+xCompileXIB
+x/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/en.lproj/TileMapViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection149"Compiling /Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/en.lproj/TileMapViewController.xib755b26856a6fb741^9700c8856a6fb741^---0#0#0#-19%DVTDocumentLocation2@165"file://localhost/Users/ryan/Documents/Programming/Guthook's%20Trail%20Guide%20Apps/Generation%202.0%20Apps/TileMapView/TileMapView/en.lproj/TileMapViewController.xib0000000000000000^1117"CompileXIB TileMapView/en.lproj/TileMapViewController.xib    cd "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/en.lproj/TileMapViewController.nib" "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/en.lproj/TileMapViewController.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"65948632-3BD5-412A-A3B6-003DFD1F1C6C-
+
+CCopyStringsFile "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/en.lproj/InfoPlist.strings" TileMapView/en.lproj/InfoPlist.strings
+s393177733.145959
+e393177733.150576
+r1
+xCopyStringsFile
+x/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/en.lproj/InfoPlist.strings
+xTileMapView/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy TileMapView/en.lproj/InfoPlist.stringsb87725856a6fb741^b18b26856a6fb741^---0#0#0#-19%DVTDocumentLocation2@157"file://localhost/Users/ryan/Documents/Programming/Guthook's%20Trail%20Guide%20Apps/Generation%202.0%20Apps/TileMapView/TileMapView/en.lproj/InfoPlist.strings0000000000000000^707"CopyStringsFile build/Release-iphonesimulator/TileMapView.app/en.lproj/InfoPlist.strings TileMapView/en.lproj/InfoPlist.strings    cd "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/en.lproj" -- TileMapView/en.lproj/InfoPlist.strings36"A80656B2-9264-4247-A76C-0253159B701A-
+
+CCpResource TileMapView/CamdenHillsTiles build/Release-iphonesimulator/TileMapView.app/CamdenHillsTiles
+s393177733.149529
+e393177733.202205
+r1
+xCpResource
+xTileMapView/CamdenHillsTiles
+xbuild/Release-iphonesimulator/TileMapView.app/CamdenHillsTiles
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Release-iphonesimulator/TileMapView.app/CamdenHillsTilesb05926856a6fb741^a4c333856a6fb741^---0#0#0#-19%DVTDocumentLocation2@181"file://localhost/Users/ryan/Documents/Programming/Guthook's%20Trail%20Guide%20Apps/Generation%202.0%20Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/CamdenHillsTiles000000000080d041^903"CpResource TileMapView/CamdenHillsTiles build/Release-iphonesimulator/TileMapView.app/CamdenHillsTiles    cd "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/CamdenHillsTiles" "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app"36"5F3BB95E-98BE-43AF-958B-52B83CA9D34F-
+
+CCpResource TileMapView/Default-568h@2x.png build/Release-iphonesimulator/TileMapView.app/Default-568h@2x.png
+s393177733.146474
+e393177733.151538
+r1
+xCpResource
+xTileMapView/Default-568h@2x.png
+xbuild/Release-iphonesimulator/TileMapView.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy build/Release-iphonesimulator/TileMapView.app/Default-568h@2x.png198c25856a6fb741^96cb26856a6fb741^---0#0#0#-19%DVTDocumentLocation2@184"file://localhost/Users/ryan/Documents/Programming/Guthook's%20Trail%20Guide%20Apps/Generation%202.0%20Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/Default-568h@2x.png000000000080d041^916"CpResource "TileMapView/Default-568h@2x.png" "build/Release-iphonesimulator/TileMapView.app/Default-568h@2x.png"    cd "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/Default-568h@2x.png" "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app"36"02DF515A-EBD4-45B2-8F05-17FB21B427CE-
+
+CCpResource TileMapView/Default.png build/Release-iphonesimulator/TileMapView.app/Default.png
+s393177733.145927
+e393177733.149122
+r1
+xCpResource
+xTileMapView/Default.png
+xbuild/Release-iphonesimulator/TileMapView.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/Release-iphonesimulator/TileMapView.app/Default.pngbd7225856a6fb741^412d26856a6fb741^---0#0#0#-19%DVTDocumentLocation2@176"file://localhost/Users/ryan/Documents/Programming/Guthook's%20Trail%20Guide%20Apps/Generation%202.0%20Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/Default.png000000000080d041^888"CpResource TileMapView/Default.png build/Release-iphonesimulator/TileMapView.app/Default.png    cd "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/Default.png" "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app"36"76E155C9-3141-4D15-A62C-DFFBB27B3981-
+
+CCpResource TileMapView/Default@2x.png build/Release-iphonesimulator/TileMapView.app/Default@2x.png
+s393177733.145906
+e393177733.148246
+r1
+xCpResource
+xTileMapView/Default@2x.png
+xbuild/Release-iphonesimulator/TileMapView.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/Release-iphonesimulator/TileMapView.app/Default@2x.png367225856a6fb741^1ff325856a6fb741^---0#0#0#-19%DVTDocumentLocation2@179"file://localhost/Users/ryan/Documents/Programming/Guthook's%20Trail%20Guide%20Apps/Generation%202.0%20Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/Default@2x.png000000000080d041^901"CpResource "TileMapView/Default@2x.png" "build/Release-iphonesimulator/TileMapView.app/Default@2x.png"    cd "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/Default@2x.png" "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app"36"9579C67B-21B4-463A-B128-A9C2CF18EAF4-
+
+CGenerateDSYMFile "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app.dSYM" "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/TileMapView"
+s393177733.112042
+e393177733.137978
+r1
+xGenerateDSYMFile
+x/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app.dSYM
+x/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/TileMapView
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection152"Generate /Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app.dSYMabcc1c856a6fb741^8b5123856a6fb741^---0#0#0#-19%DVTDocumentLocation2@169"file://localhost/Users/ryan/Documents/Programming/Guthook's%20Trail%20Guide%20Apps/Generation%202.0%20Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app.dSYM000000000080d041^825"GenerateDSYMFile build/Release-iphonesimulator/TileMapView.app.dSYM build/Release-iphonesimulator/TileMapView.app/TileMapView    cd "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/TileMapView" -o "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app.dSYM"36"E5723E9C-AA59-4194-B0B9-1AE7994B78FF-
+
+CLd "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/TileMapView" normal i386
+s393177733.077422
+e393177733.104871
+r1
+xLd
+x/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/TileMapView
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection155"Link /Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/TileMapView70ee13856a6fb741^f9d71a856a6fb741^---0#0#0#--1507"Ld build/Release-iphonesimulator/TileMapView.app/TileMapView normal i386    cd "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView"    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk "-L/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator" "-F/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator" -filelist "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/Objects-normal/i386/TileMapView.LinkFileList" -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework MapKit -framework CoreLocation -framework UIKit -framework Foundation -framework CoreGraphics -o "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/TileMapView"36"9138D478-F673-48FF-83F0-4E0ADEF68179-
+
+CProcessInfoPlistFile "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/Info.plist" TileMapView/TileMapView-Info.plist
+s393177732.526144
+e393177732.529279
+r1
+xProcessInfoPlistFile
+x/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/Info.plist
+xTileMapView/TileMapView-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Process TileMapView/TileMapView-Info.plist61c486846a6fb741^809d87846a6fb741^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Users/ryan/Documents/Programming/Guthook's%20Trail%20Guide%20Apps/Generation%202.0%20Apps/TileMapView/TileMapView/TileMapView-Info.plist0000000000000000^852"ProcessInfoPlistFile build/Release-iphonesimulator/TileMapView.app/Info.plist TileMapView/TileMapView-Info.plist    cd "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TileMapView/TileMapView-Info.plist -genpkginfo "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app/Info.plist"36"226617E0-8625-4070-B205-CCECBB5ECB19-
+
+CProcessPCH /Users/ryan/Library/Developer/Xcode/DerivedData/TileMapView-btktnarrbsheszamyvmyzrdaembk/Index/PrecompiledHeaders/TileMapView-Prefix-ajkoxspllxqdzjblxkeqeblkcoin_ast/TileMapView-Prefix.pch.pth TileMapView/TileMapView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/ryan/Library/Developer/Xcode/DerivedData/TileMapView-btktnarrbsheszamyvmyzrdaembk/Index/PrecompiledHeaders/TileMapView-Prefix-gqbigwvjcdkkungsvkbgzqxpahpg_ast/TileMapView-Prefix.pch.pth TileMapView/TileMapView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/xz/8lbtwnt48xn0b2001s63z0zr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TileMapView-Prefix-cbiaeyetynydytgpkuhsbjzcmogv/TileMapView-Prefix.pch.pth TileMapView/TileMapView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393177732.537727
+e393177732.826738
+r1
+xProcessPCH
+x/var/folders/xz/8lbtwnt48xn0b2001s63z0zr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TileMapView-Prefix-cbiaeyetynydytgpkuhsbjzcmogv/TileMapView-Prefix.pch.pth
+xTileMapView/TileMapView-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile TileMapView/TileMapView-Prefix.pchfed789846a6fb741^cea6d3846a6fb741^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Users/ryan/Documents/Programming/Guthook's%20Trail%20Guide%20Apps/Generation%202.0%20Apps/TileMapView/TileMapView/TileMapView-Prefix.pch0000000000000000^4171"ProcessPCH /var/folders/xz/8lbtwnt48xn0b2001s63z0zr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TileMapView-Prefix-cbiaeyetynydytgpkuhsbjzcmogv/TileMapView-Prefix.pch.pth TileMapView/TileMapView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-generated-files.hmap" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-own-target-headers.hmap" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-all-target-headers.hmap" -iquote "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-project-headers.hmap" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/DerivedSources/i386" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/DerivedSources" "-F/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator" -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/xz/8lbtwnt48xn0b2001s63z0zr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TileMapView-Prefix-cbiaeyetynydytgpkuhsbjzcmogv/TileMapView-Prefix.pch.dia -c "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/TileMapView-Prefix.pch" -o /var/folders/xz/8lbtwnt48xn0b2001s63z0zr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TileMapView-Prefix-cbiaeyetynydytgpkuhsbjzcmogv/TileMapView-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/xz/8lbtwnt48xn0b2001s63z0zr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TileMapView-Prefix-cbiaeyetynydytgpkuhsbjzcmogv/TileMapView-Prefix.pch.d36"57B3C235-8708-4F3B-A032-92C4CC87F3CD-
+
+CProcessPCH /var/folders/xz/8lbtwnt48xn0b2001s63z0zr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TileMapView-Prefix-hfdyedkrjxqkircnubqjcscgetpj/TileMapView-Prefix.pch.pth TileMapView/TileMapView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393177732.537736
+e393177732.814103
+r1
+xProcessPCH
+x/var/folders/xz/8lbtwnt48xn0b2001s63z0zr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TileMapView-Prefix-hfdyedkrjxqkircnubqjcscgetpj/TileMapView-Prefix.pch.pth
+xTileMapView/TileMapView-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile TileMapView/TileMapView-Prefix.pch67d789846a6fb741^2368d0846a6fb741^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Users/ryan/Documents/Programming/Guthook's%20Trail%20Guide%20Apps/Generation%202.0%20Apps/TileMapView/TileMapView/TileMapView-Prefix.pch0000000000000000^4185"ProcessPCH /var/folders/xz/8lbtwnt48xn0b2001s63z0zr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TileMapView-Prefix-hfdyedkrjxqkircnubqjcscgetpj/TileMapView-Prefix.pch.pth TileMapView/TileMapView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-generated-files.hmap" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-own-target-headers.hmap" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-all-target-headers.hmap" -iquote "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/TileMapView-project-headers.hmap" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/DerivedSources/i386" "-I/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/TileMapView.build/Release-iphonesimulator/TileMapView.build/DerivedSources" "-F/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator" -DNS_BLOCK_ASSERTIONS=1 -fno-objc-arc --serialize-diagnostics /var/folders/xz/8lbtwnt48xn0b2001s63z0zr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TileMapView-Prefix-hfdyedkrjxqkircnubqjcscgetpj/TileMapView-Prefix.pch.dia -c "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/TileMapView/TileMapView-Prefix.pch" -o /var/folders/xz/8lbtwnt48xn0b2001s63z0zr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TileMapView-Prefix-hfdyedkrjxqkircnubqjcscgetpj/TileMapView-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/xz/8lbtwnt48xn0b2001s63z0zr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TileMapView-Prefix-hfdyedkrjxqkircnubqjcscgetpj/TileMapView-Prefix.pch.d36"394D9A9A-A7D0-4336-AB70-A9B58259157E-
+
+CTouch "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app"
+s393177733.789268
+e393177733.796271
+r1
+xTouch
+x/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Touch /Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.appcc24ca856a6fb741^27d8cb856a6fb741^---0#0#0#--512"Touch build/Release-iphonesimulator/TileMapView.app    cd "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/ryan/Documents/Programming/Guthook's Trail Guide Apps/Generation 2.0 Apps/TileMapView/build/Release-iphonesimulator/TileMapView.app"36"3E442259-5A72-45CD-ADAF-EB9312F93329-
+
