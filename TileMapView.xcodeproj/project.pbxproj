@@ -108,7 +108,6 @@
 		94F9262F176F4F220096F040 /* TileMapView */ = {
 			isa = PBXGroup;
 			children = (
-				943F7F4F1781AC0100B51469 /* README.md */,
 				94F92659176F54F60096F040 /* MTigas Overlays */,
 				94F92656176F50120096F040 /* Apple Tile Overlay */,
 				94F92638176F4F220096F040 /* TileMapAppDelegate.h */,
@@ -125,6 +124,7 @@
 		94F92630176F4F220096F040 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				943F7F4F1781AC0100B51469 /* README.md */,
 				94F92631176F4F220096F040 /* TileMapView-Info.plist */,
 				94F92632176F4F220096F040 /* InfoPlist.strings */,
 				94F92635176F4F220096F040 /* main.m */,
