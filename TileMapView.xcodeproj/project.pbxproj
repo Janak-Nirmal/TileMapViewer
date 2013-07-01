@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		943F7F501781AC0100B51469 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 943F7F4F1781AC0100B51469 /* README.md */; };
 		94F9262A176F4F220096F040 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 94F92629176F4F220096F040 /* UIKit.framework */; };
 		94F9262C176F4F220096F040 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 94F9262B176F4F220096F040 /* Foundation.framework */; };
 		94F9262E176F4F220096F040 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 94F9262D176F4F220096F040 /* CoreGraphics.framework */; };
@@ -28,6 +29,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		943F7F4F1781AC0100B51469 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = SOURCE_ROOT; };
 		94F92626176F4F220096F040 /* TileMapView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TileMapView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		94F92629176F4F220096F040 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		94F9262B176F4F220096F040 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -106,6 +108,7 @@
 		94F9262F176F4F220096F040 /* TileMapView */ = {
 			isa = PBXGroup;
 			children = (
+				943F7F4F1781AC0100B51469 /* README.md */,
 				94F92659176F54F60096F040 /* MTigas Overlays */,
 				94F92656176F50120096F040 /* Apple Tile Overlay */,
 				94F92638176F4F220096F040 /* TileMapAppDelegate.h */,
@@ -214,6 +217,7 @@
 				94F92640176F4F220096F040 /* Default-568h@2x.png in Resources */,
 				94F92646176F4F220096F040 /* TileMapViewController.xib in Resources */,
 				94F92658176F508C0096F040 /* CamdenHillsTiles in Resources */,
+				943F7F501781AC0100B51469 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -353,6 +357,7 @@
 				94F9264B176F4F220096F040 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
